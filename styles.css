@@ -16,3 +16,7 @@ h1 {
 .alert-text {
     color: #b3595d;
 }
+
+ul.recipe-list {
+    font-weight: bold;
+}
