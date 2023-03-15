@@ -1,5 +1,5 @@
 * {
-    color: #4a4a4a;
+    color: #0d0d0d;
 }
 
 body {
@@ -9,8 +9,7 @@ body {
 h1 {
     text-align: center;
     font-weight: bold;
-    color: #ffffff;
-    background-color: #2a4d73;
+    color: #e0611f;
 }
 
 .alert-text {
@@ -19,4 +18,5 @@ h1 {
 
 ul.recipe-list {
     font-weight: bold;
+    color: white;
 }
