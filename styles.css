@@ -13,10 +13,22 @@ h1 {
 }
 
 .alert-text {
-    color: #b3595d;
+    color: #3a9691;
+    font-weight: bold;
+}
+
+.description {
+    color: #4a4a4a;
 }
 
 ul.recipe-list {
     font-weight: bold;
-    color: white;
+    color: #232323;
 }
+
+/* Color pallete inspiration by Yummly: 
+
+#3a9691 for both major buttons or buttons that have been clicked or are being hovered over
+#4a4a4a for basic descriptions, paragraphs, etc.
+
+*/
