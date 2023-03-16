@@ -1,9 +1,14 @@
 * {
-    color: #0d0d0d;
+    color: #4a4a4a;
 }
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.alert-text {
+    color: #3a9691;
+    font-weight: bold;
 }
 
 h1 {
@@ -12,23 +17,24 @@ h1 {
     color: #e0611f;
 }
 
-.alert-text {
-    color: #3a9691;
+h2 {
+    text-align: left;
     font-weight: bold;
-}
-
-.description {
-    color: #4a4a4a;
 }
 
 ul.recipe-list {
-    font-weight: bold;
-    color: #232323;
+    color: #4a4a4a;
+}
+
+img.top-or-bottom-image {
+    width: 300px;
+    height: auto;
 }
 
 /* Color pallete inspiration by Yummly: 
 
+#e0611f for brand logo itself... let's hope this color and the brand's pallette aren't patented 
 #3a9691 for both major buttons or buttons that have been clicked or are being hovered over
-#4a4a4a for basic descriptions, paragraphs, etc.
+#4a4a4a for basic text: titles, paragraphs, etc.
 
 */
