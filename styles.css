@@ -23,6 +23,17 @@ h2 {
     font-weight: bold;
 }
 
+h3 {
+    text-align: left;
+    font-weight: lighter;
+}
+
+/* Reserve h6 elements for little easter eggs and whatnot */
+h6 {
+    font-weight: 100;
+    text-align: right;
+}
+
 li {
     color: #4a4a4a;
 }
@@ -40,12 +51,6 @@ img.recipe-page-main-image {
 .full-page-image {
     width: auto;
     height: auto;
-}
-
-/* Reserve h6 elements for little easter eggs and whatnot */
-h6 {
-    font-weight: 100;
-    text-align: right;
 }
 
 /* Color pallete inspiration by Yummly: 
