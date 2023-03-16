@@ -23,12 +23,17 @@ h2 {
     font-weight: bold;
 }
 
-ul.recipe-list {
+li {
     color: #4a4a4a;
 }
 
 img.top-or-bottom-image {
     width: 300px;
+    height: auto;
+}
+
+img.recipe-page-main-image {
+    width: 400px;
     height: auto;
 }
 
