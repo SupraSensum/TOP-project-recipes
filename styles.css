@@ -37,6 +37,17 @@ img.recipe-page-main-image {
     height: auto;
 }
 
+.full-page-image {
+    width: auto;
+    height: auto;
+}
+
+/* Reserve h6 elements for little easter eggs and whatnot */
+h6 {
+    font-weight: 100;
+    text-align: right;
+}
+
 /* Color pallete inspiration by Yummly: 
 
 #e0611f for brand logo itself... let's hope this color and the brand's pallette aren't patented 
