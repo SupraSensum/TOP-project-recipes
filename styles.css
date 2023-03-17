@@ -53,6 +53,11 @@ img.recipe-page-main-image {
     height: auto;
 }
 
+/* Uncomment the following definition block to induce suffering */
+/* li, ul, h3 {
+    display: flex;
+} */
+
 /* Color pallete inspiration by Yummly: 
 
 #e0611f for brand logo itself... let's hope this color and the brand's pallette aren't patented 
