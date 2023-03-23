@@ -29,9 +29,15 @@ h3 {
 }
 
 /* Reserve h6 elements for little easter eggs and whatnot */
-h6 {
+h6.easter-egg {
     font-weight: 100;
     text-align: right;
+}
+
+h6#shrek-love {
+    /* color: #dee2e6; */
+    display: inline;
+    box-sizing: border-box;
 }
 
 li {
