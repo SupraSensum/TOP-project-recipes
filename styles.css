@@ -67,6 +67,13 @@ img.recipe-page-main-image {
     background-color: #dee2e6;
 }
 
+div.recipe-list {
+    box-sizing: border-box;
+    padding: 1em;
+    margin: 1em auto;
+    border: auto;
+}
+
 /* Uncomment the following definition block to induce suffering */
 /* li, ul, h3 {
     display: flex;
