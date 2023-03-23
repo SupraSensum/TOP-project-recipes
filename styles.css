@@ -53,6 +53,20 @@ img.recipe-page-main-image {
     height: auto;
 }
 
+/* Styling for recipe categories */
+
+.bender-favs {
+    background-color: #adb5bd;
+}
+
+.my-favs {
+    background-color: #ced4da;
+}
+
+.le-boring {
+    background-color: #dee2e6;
+}
+
 /* Uncomment the following definition block to induce suffering */
 /* li, ul, h3 {
     display: flex;
