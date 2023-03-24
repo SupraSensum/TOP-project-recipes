@@ -45,17 +45,17 @@ li {
 }
 
 img.top-or-bottom-image {
-    width: 300px;
+    width: 250px;
     height: auto;
 }
 
 img.recipe-page-main-image {
-    width: 300px;
+    width: 100%;
     height: auto;
 }
 
 .full-page-image {
-    width: auto;
+    width: 100%;
     height: auto;
 }
 
